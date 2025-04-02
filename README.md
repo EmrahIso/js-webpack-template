@@ -10,7 +10,7 @@ This boilerplate repository also includes Jest for code testing and babel for co
 
 ### Run development environment
 
-`npm run dev` - starts the development environment with webpack local server with auto reloading. Open [http://localhost:8080](https://localhost:8080) to view it in the browser.
+`npm run dev` - starts the development environment with webpack local server with auto reloading. Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ### Scripts
 
